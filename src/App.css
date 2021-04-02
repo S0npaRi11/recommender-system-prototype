@@ -1,0 +1,24 @@
+.header{
+  margin-bottom: 15px;
+}
+
+.nameSelector{
+  margin: 15px 0;
+}
+
+.addProductForm{
+  margin: 15px 0;
+}
+
+.productList{
+  margin: 45px 0;
+}
+
+.recommendationList{
+  margin: 45px 0;
+}
+
+.addProductButton{
+  margin: 25px auto;
+
+}
